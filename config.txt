@@ -1,0 +1,6 @@
+owner=
+prefix=!
+game=Start
+stayinchannel=true
+songinstatus=false
+token=NTQ5MTQwMzY4MjQ0MDgwNjQw.D1Pilw.KGzfhywba289UZ_enkV3wxCV_SE
